@@ -1,7 +1,7 @@
 # Link Master
 ## Link Master Helps you Link Potential Files.
 ### How to Use
-Open a note and try `<CMD>+6`. Easy pissy lemon squeezy:D
+Open a note and try `<CMD>+6`. Easy Peasy Lemon Squeezy:D
 
 ### Features
 **Command:** Find Files related to Current File
