@@ -1,0 +1,21 @@
+.possible-links-container {
+    max-height: 600px;
+    overflow: auto;
+}
+
+.possible-link-item{
+    cursor:pointer;
+}
+.Add-Link-Button {
+    border-radius: 4px;
+    border: 1px solid #af541f;
+    background: transparent;
+    font-weight: bold;
+    cursor:pointer;
+    margin-left:10px
+}
+.Add-Link-Button:hover {
+    background: #af541f;
+    color: white !important;
+    cursor:pointer;
+}

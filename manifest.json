@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-link-master",
+	"name": "Link Master",
+	"version": "0.1.0",
+	"minAppVersion": "0.12.15",
+	"description": "Link Master Helps you Link Potential Files.",
+	"author": "fukun",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
